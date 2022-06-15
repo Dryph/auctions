@@ -1,0 +1,4 @@
+main: me.tulio.auction.Auction
+name: Auction
+version: 1.0-SNAPSHOT
+author: Dryph

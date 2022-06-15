@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LightSpigot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Auction/libs/LightSpigot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
